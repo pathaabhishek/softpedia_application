@@ -1,0 +1,24 @@
+2020-04-08 09:08:26.697 INFO [main] [com.sd.Login_Definition] [launch_the_softpedia_website] [com.sd.Login_Definition.launch_the_softpedia_website(Login_Definition.java:22)] - Browser launched sucessfully
+2020-04-08 09:08:26.782 INFO [main] [com.sd.Login_Definition] [user_clicks_on_the_Login_button] [com.sd.Login_Definition.user_clicks_on_the_Login_button(Login_Definition.java:29)] - Clicked on login button
+2020-04-08 09:08:28.227 INFO [main] [com.sd.Login_Definition] [user_enters_and] [com.sd.Login_Definition.user_enters_and(Login_Definition.java:38)] - entered username and password
+2020-04-08 09:08:29.232 INFO [main] [com.sd.Login_Definition] [exit_the_browser] [com.sd.Login_Definition.exit_the_browser(Login_Definition.java:44)] - Browser quit sucessfully
+2020-04-08 09:20:18.750 INFO [main] [com.sd.Login_Definition] [launch_the_softpedia_website] [com.sd.Login_Definition.launch_the_softpedia_website(Login_Definition.java:24)] - Browser launched sucessfully
+2020-04-08 09:20:18.848 INFO [main] [com.sd.Login_Definition] [user_clicks_on_the_Login_button] [com.sd.Login_Definition.user_clicks_on_the_Login_button(Login_Definition.java:31)] - Clicked on login button
+2020-04-08 09:20:19.993 INFO [main] [com.sd.Login_Definition] [user_enters_and] [com.sd.Login_Definition.user_enters_and(Login_Definition.java:40)] - entered username and password
+2020-04-08 09:20:21.524 INFO [main] [com.sd.Login_Definition] [exit_the_browser] [com.sd.Login_Definition.exit_the_browser(Login_Definition.java:48)] - Browser quit sucessfully
+2020-04-08 11:12:43.839 INFO [main] [com.sd.Login_Definition] [launch_the_softpedia_website] [com.sd.Login_Definition.launch_the_softpedia_website(Login_Definition.java:24)] - Browser launched sucessfully
+2020-04-08 11:12:44.023 INFO [main] [com.sd.Login_Definition] [user_clicks_on_the_Login_button] [com.sd.Login_Definition.user_clicks_on_the_Login_button(Login_Definition.java:31)] - Clicked on login button
+2020-04-08 12:35:11.485 INFO [main] [com.sd.Login_Definition] [launch_the_softpedia_website] [com.sd.Login_Definition.launch_the_softpedia_website(Login_Definition.java:24)] - Browser launched sucessfully
+2020-04-08 12:35:11.591 INFO [main] [com.sd.Login_Definition] [user_clicks_on_the_Login_button] [com.sd.Login_Definition.user_clicks_on_the_Login_button(Login_Definition.java:31)] - Clicked on login button
+2020-04-08 12:35:12.752 INFO [main] [com.sd.Login_Definition] [user_enters_and] [com.sd.Login_Definition.user_enters_and(Login_Definition.java:40)] - entered username and password
+2020-04-08 12:35:14.267 INFO [main] [com.sd.Login_Definition] [exit_the_browser] [com.sd.Login_Definition.exit_the_browser(Login_Definition.java:48)] - Browser quit sucessfully
+2020-04-08 12:35:31.566 INFO [main] [com.sd.Search_Definition] [launch_the_sf_application] [com.sd.Search_Definition.launch_the_sf_application(Search_Definition.java:20)] -  softpedia Browser launched sucessfully
+2020-04-08 12:35:53.545 INFO [main] [com.sd.Games_Definition] [launch_the_softpedia_applicaion] [com.sd.Games_Definition.launch_the_softpedia_applicaion(Games_Definition.java:23)] - SF launched sucessfully
+2020-04-08 12:36:12.668 INFO [main] [com.sd.Drivers_Definition] [launch_the_sp_applicaion] [com.sd.Drivers_Definition.launch_the_sp_applicaion(Drivers_Definition.java:21)] - Browser sp launched sucessfully
+2020-04-08 12:46:26.923 INFO [main] [com.sd.Drivers_Definition] [launch_the_sp_applicaion] [com.sd.Drivers_Definition.launch_the_sp_applicaion(Drivers_Definition.java:21)] - Browser sp launched sucessfully
+2020-04-08 12:55:04.452 INFO [main] [com.sd.Drivers_Definition] [launch_the_sp_applicaion] [com.sd.Drivers_Definition.launch_the_sp_applicaion(Drivers_Definition.java:21)] - Browser sp launched sucessfully
+2020-04-08 12:56:33.553 INFO [main] [com.sd.Drivers_Definition] [launch_the_sp_applicaion] [com.sd.Drivers_Definition.launch_the_sp_applicaion(Drivers_Definition.java:21)] - Browser sp launched sucessfully
+2020-04-08 14:00:20.973 INFO [main] [com.sd.Drivers_Definition] [launch_the_sp_applicaion] [com.sd.Drivers_Definition.launch_the_sp_applicaion(Drivers_Definition.java:21)] - Browser sp launched sucessfully
+2020-04-08 14:03:05.450 INFO [main] [com.sd.Drivers_Definition] [launch_the_sp_applicaion] [com.sd.Drivers_Definition.launch_the_sp_applicaion(Drivers_Definition.java:21)] - Browser sp launched sucessfully
+2020-04-08 14:08:23.717 INFO [main] [com.sd.Search_Definition] [launch_the_sf_application] [com.sd.Search_Definition.launch_the_sf_application(Search_Definition.java:20)] -  softpedia Browser launched sucessfully
+2020-04-08 14:15:13.752 INFO [main] [com.sd.Games_Definition] [launch_the_softpedia_applicaion] [com.sd.Games_Definition.launch_the_softpedia_applicaion(Games_Definition.java:23)] - SF launched sucessfully
