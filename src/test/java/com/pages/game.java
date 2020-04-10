@@ -9,7 +9,7 @@ import com.cts.baseclass.Wrapperclass;
 
 public class game extends Wrapperclass {
 	WebDriver driver;
-	@FindBy(xpath = "//*[@id=\"wrapper\"/div[1]/div[2]/div/div[3]/ul[1]/li[3]/a")
+	@FindBy(xpath = "//*[@id=\"wrapper\"]/div[1]/div[2]/div/div[3]/ul[1]/li[3]/a")
 	WebElement game;
 	public game(WebDriver driver) {
 		PageFactory.initElements(driver, this);

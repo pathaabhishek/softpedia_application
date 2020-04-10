@@ -24,7 +24,8 @@ public class Search_Definition extends Wrapperclass {
 
 	@Given("^User enter the required item in search button and click on search$")
 	public void user_enter_the_required_item_in_search_button_and_click_on_search() {
-		sr.srch_bar();
+		sr = new search(driver);
+		sr.search_bar_item();
 		LOG.info(" in the search bar the user is entered the text");
 		
 	

@@ -28,7 +28,7 @@ public class Drivers_Definition extends Wrapperclass {
     	ab=new Driver_page(driver);
     	ab.gdrivers();
     	ab.gnetgear();
-    	ab.gfirmware();
+    	//ab.gfirmware();
     	LOG.info("the user clicks the drivers");
     	
     }

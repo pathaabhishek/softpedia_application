@@ -9,16 +9,16 @@ import com.cts.baseclass.Wrapperclass;
 
 public class search extends Wrapperclass {
 	WebDriver driver;
-	@FindBy(id = "hps_input")
-	WebElement searchbar;
+	@FindBy(xpath = "//*[@id=\"hps_input\"]")
+	WebElement search_bar;
 	public search(WebDriver driver) {
 		PageFactory.initElements(driver, this);
 		this.driver=driver;
 	}
 	
-	public void srch_bar() {
-		searchbar.sendKeys("apple iphone");
-		searchbar.submit();
+	public void search_bar_item() {
+		search_bar.sendKeys("apple iphone");
+		search_bar.submit();
 	}
 
 }

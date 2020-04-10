@@ -8,12 +8,12 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features = "src\\main\\resources\\Feature\\Softpedia.feature",
+		features = "src\\main\\resources\\Feature",
 		plugin = {"pretty", "html:target\\cucumber-html-report",
 				"json:target\\cucumber-json-report",
 				"junit:target\\cucumber-junit-report",
 				"com.cucumber.listener.ExtentCucumberFormatter:target\\cucmber-extent-report\\Extentreport.html"},
-		tags = {"@TC03_03"},
+		tags = {"@TC01_01,@TC02_02,@TC03_03,@TC04_04"},
 		glue = {"com.sd"},
 		monochrome = true
 		)

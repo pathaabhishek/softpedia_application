@@ -11,10 +11,10 @@ public class Driver_page extends Wrapperclass {
 	WebDriver driver;
 	@FindBy(xpath= "//*[@class=\"upcase fw500 mgleft_7\"  and  @href=\"https://drivers.softpedia.com/\"]")
 	WebElement drivers;
-	@FindBy(xpath = "//*[@href=\"https://drivers.softpedia.com/get/Router-Switch-Access-Point/NETGEAR/\"]")
+	@FindBy(xpath = "//*[@id=\"wrapper\"]/div[2]/div[2]/div[2]/div/div[1]/div[1]/span/a")
 	WebElement netgear;
-	@FindBy(xpath = "//*[@class=\"col-white\"]")
-	WebElement firmware;
+	//@FindBy(xpath = "//*[@class=\"col-white\"]")
+	//WebElement firmware;
 	public Driver_page(WebDriver driver) {
 		PageFactory.initElements(driver, this);
 		this.driver=driver;
@@ -26,9 +26,9 @@ public class Driver_page extends Wrapperclass {
 	public void gnetgear() {
 		netgear.click();
 	}
-	public void gfirmware() {
-		firmware.click();
-	}
+	//public void gfirmware() {
+		//firmware.click();
+	//}
 
 }
 
